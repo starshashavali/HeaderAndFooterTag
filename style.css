@@ -1,0 +1,21 @@
+body{
+    font-family:  Calibri, sans-serif;
+    margin: 0;
+}
+header{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    color: white;
+ 
+}
+section{
+    padding: 2opx;
+    font-size: 20px;
+}
+footer{
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
